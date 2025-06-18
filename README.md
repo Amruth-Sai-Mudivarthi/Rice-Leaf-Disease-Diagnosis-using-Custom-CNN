@@ -1,4 +1,4 @@
-# Rce Leaf Disease Diagnosis Using Custom CNN
+# Rice Leaf Disease Diagnosis Using Custom CNN
 
 <div align="center">
   <img src="assets/app-demo.gif" alt="App Demo" width="600">
